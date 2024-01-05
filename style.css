@@ -5,7 +5,7 @@
     font-size: 25px;
 }
 .section-descriptiob{
-    text-align: justify;
+    text-align: center;
 }
 .btn-primary{
     border-radius: 5px;
@@ -29,7 +29,7 @@ nav{
 }
 
 nav h3{
-    font-size: 30px;
+    font-size: 38px;
 }
 
 nav > ul {
@@ -64,7 +64,6 @@ nav li{
 
 .banner-content{
     padding-right: 10%;
-    max-width: 500px;
 }
 
 .greeting{
@@ -86,9 +85,25 @@ nav li{
 }
 
 .about{
-    padding: 120px;
+    padding: 80px;
     border-radius: 10px;
     background-color: wheat;
     margin: 80px;
 }
 
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
+}
+
+.info-title{
+    font-weight: lighter;
+}
+
+.info-description{
+    font-weight: 900;
+}
