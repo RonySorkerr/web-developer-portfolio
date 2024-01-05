@@ -1,0 +1,35 @@
+.btn-primary{
+    border-radius: 5px;
+    border: 0;
+    background-color: orangered;
+    color: white;
+    padding: 5px 5px;
+}
+.text-primary{
+    color: orangered;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h3{
+    font-size: 30px;
+}
+
+nav > ul {
+    display: flex;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 40px;
+}
