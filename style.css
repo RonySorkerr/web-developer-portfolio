@@ -43,4 +43,10 @@ nav li{
 
 .banner{
     padding: 20px 20px 20pc 50px;
+    display: flex;
+    align-items: center;
+}
+
+.banner img{
+    width: 250px;
 }
