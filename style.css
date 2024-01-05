@@ -3,7 +3,7 @@
     border: 0;
     background-color: orangered;
     color: white;
-    padding: 5px 5px;
+    padding: 10px 10px;
 }
 .text-primary{
     color: orangered;
@@ -15,6 +15,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 20px;
 }
 
 nav h3{
@@ -23,6 +24,7 @@ nav h3{
 
 nav > ul {
     display: flex;
+    align-items: center;
 }
 
 nav a {
@@ -31,5 +33,14 @@ nav a {
 
 nav li{
     list-style: none;
+    align-items: center;
     margin-right: 40px;
+}
+
+.header{
+    background-color: wheat;
+}
+
+.banner{
+    padding: 20px 20px 20pc 50px;
 }
