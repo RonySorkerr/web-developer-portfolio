@@ -143,9 +143,7 @@ main section{
     gap: 20px;
 }
 
-.resume-itme{
 
-}
 
 .download-cv{
     text-align: center;
@@ -156,12 +154,13 @@ footer{
     display: flex;
     background-color: wheat;
     padding: 0px 160px;
-    gap: 20px;
+    gap: 40px;
 }
 
 /* .section-descriotion{
     padding: 0px 80px;
 } */
+
 
 
 .social-links img{
@@ -186,9 +185,5 @@ footer{
     padding: 10px;
     border: 0px;
     border-radius: 10px;
-    width: 95%;
-}
-
-.contact {
-
+    width: 100%;
 }
