@@ -107,3 +107,19 @@ nav li{
 .info-description{
     font-weight: 900;
 }
+
+#what-i-do-des{
+    padding: 30px 100px;
+}
+
+.skills-container{
+    display: flex;
+}
+
+.skills{
+    padding: 25px;
+}
+
+.skills img{
+    width: 150px;
+}
